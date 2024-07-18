@@ -1,0 +1,12 @@
+[
+  { "name": "Technology", "color": "#488BCE" },
+  { "name": "Healthcare", "color": "#FF4E4E" },
+  { "name": "Finance", "color": "#39CBBA" },
+  { "name": "Education", "color": "#39CBBA" },
+  { "name": "Retail", "color": "#FF4E4E" },
+  { "name": "Energy", "color": "#39CBBA" },
+  { "name": "Manufacturing", "color": "#488BCE" },
+  { "name": "Real Estate", "color": "#FF4E4E" },
+  { "name": "Transportation", "color": "#488BCE" },
+  { "name": "Entertainment", "color": "#FF4E4E" }
+]
